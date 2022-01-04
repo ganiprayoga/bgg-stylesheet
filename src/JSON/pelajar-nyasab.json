@@ -1,0 +1,86 @@
+{
+  "genderWalker": {
+    "genderWalker_label": "Jenis Kelamin",
+    "genderWalker_type": "radio",
+    "genderWalker_options": "Laki-laki|Perempuan",
+    "genderWalker_def": "",
+    "genderWalker_req": "true"
+  },
+  "kategoriPeserta": {
+    "kategoriPeserta_label": "Kategori Peserta",
+    "kategoriPeserta_type": "radio",
+    "kategoriPeserta_options": "Pelajar|Guru|Komunitas Sepeda|Bandung Good Guide",
+    "kategoriPeserta_def": "",
+    "kategoriPeserta_req": "true"
+  },
+  "sekolahWalker": {
+    "sekolahWalker_label": "Asal Sekolah (untuk peserta Pelajar & Guru)",
+    "sekolahWalker_type": "text",
+    "sekolahWalker_options": "",
+    "sekolahWalker_def": "",
+    "sekolahWalker_req": "false"
+  },
+  "kelasWalker": {
+    "kelasWalker_label": "Kelas (untuk peserta Pelajar)",
+    "kelasWalker_type": "text",
+    "kelasWalker_options": "",
+    "kelasWalker_def": "",
+    "kelasWalker_req": "false"
+  },
+  "komunitasWalker": {
+    "komunitasWalker_label": "Asal Komunitas (untuk peserta Komunitas)",
+    "komunitasWalker_type": "text",
+    "komunitasWalker_options": "",
+    "komunitasWalker_def": "",
+    "komunitasWalker_req": "false"
+  },
+  "qSukaBersepeda": {
+    "qSukaBersepeda_label": "Apakah kamu suka bersepeda?",
+    "qSukaBersepeda_type": "radio",
+    "qSukaBersepeda_options": "Suka|Tidak suka",
+    "qSukaBersepeda_def": "",
+    "qSukaBersepeda_req": "true"
+  },
+  "qFrekuensiBersepeda": {
+    "qFrekuensiBersepeda_label": "Berapa kali dalam sepekan kamu bersepeda?",
+    "qFrekuensiBersepeda_type": "radio",
+    "qFrekuensiBersepeda_options": "1 kali|2 kali|3 kali|Setiap hari",
+    "qFrekuensiBersepeda_def": "",
+    "qFrekuensiBersepeda_req": "true"
+  },
+  "qJarakBersepeda": {
+    "qJarakBersepeda_label": "Berapa jarak yang kamu tempuh saat bersepeda dalam sehari?",
+    "qJarakBersepeda_type": "radio",
+    "qJarakBersepeda_options": "< 2 km|2 - 4 km|4 - 8 km|> 8 km",
+    "qJarakBersepeda_def": "",
+    "qJarakBersepeda_req": "true"
+  },
+  "qAturanTerkini": {
+    "qAturanTerkini_label": "Tuliskan aturan terkini tentang Keselamatan Bagi Pesepeda di Indonesia",
+    "qAturanTerkini_type": "textarea",
+    "qAturanTerkini_options": "",
+    "qAturanTerkini_def": "",
+    "qAturanTerkini_req": "true"
+  },
+  "qHalTidakWajib": {
+    "qHalTidakWajib_label": "Apa yang dikategorikan <strong>Tidak Wajib</strong> dalam aturan tersebut?",
+    "qHalTidakWajib_type": "radio",
+    "qHalTidakWajib_options": "Spakbor|Lampu penerangan depan belakang/reflektor|Pedal|Helm",
+    "qHalTidakWajib_def": "",
+    "qHalTidakWajib_req": "true"
+  },
+  "qHalWajib": {
+    "qHalWajib_label": "Apa yang <strong>wajib</strong> dilakukan pesepeda saat akan berbelok/mengubah arah?",
+    "qHalWajib_type": "radio",
+    "qHalWajib_options": "Berhenti|Menengok ke belakang|Memberi isyarat dengan tangan|Membunyikan bel",
+    "qHalWajib_def": "",
+    "qHalWajib_req": "true"
+  },
+  "vaksinWalker": {
+    "vaksinWalker_label": "Apa kamu sudah vaksin?",
+    "vaksinWalker_type": "select",
+    "vaksinWalker_options": "Belum|Sudah",
+    "vaksinWalker_def": "",
+    "vaksinWalker_req": "true"
+  }
+}
