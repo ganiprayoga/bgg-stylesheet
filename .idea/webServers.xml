@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d46f949e-7d09-4132-99e4-22a6be934c35" name="BGG Niagahoster" url="http://beta.bandungwalkingtour.id">
+        <fileTransfer rootFolder="/wp-content/themes" accessType="FTPS" host="ftp.bandungcyclingtour.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="99177569-5aff-4efb-a627-08b3f08fa41a" name="BGG Live" url="http://beta.bandungwalkingtour.id">
+        <fileTransfer rootFolder="/wp-content/themes" accessType="FTPS" host="ftp.bandungcyclingtour.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

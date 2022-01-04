@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="BGG Live" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="BGG Live">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/dt-the7-child" local="$PROJECT_DIR$/child-theme" web="/" />
+            <mapping deploy="/hello-theme-child-master" local="$PROJECT_DIR$/hello-theme-child-master" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="BGG Niagahoster">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/dt-the7-child" local="$PROJECT_DIR$/child-theme" web="/" />
+            <mapping deploy="/hello-theme-child-master" local="$PROJECT_DIR$/hello-theme-child-master" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
